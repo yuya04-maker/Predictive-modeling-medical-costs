@@ -15,7 +15,7 @@ This project uses machine learning to predict medical insurance costs based on i
 2. Exploratory Data Analysis (EDA)
 3. Feature selection and engineering
 4. Model training (Linear Regression / Ridge / Lasso)
-5. Model evaluation using RMSE and R²
+5. Model evaluation using RMSE, MAE, and R²
 
 ## Key Insights
 - Smoking status is the strongest predictor of medical costs

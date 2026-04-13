@@ -1,7 +1,7 @@
 # Predictive Modeling of Medical Costs
 
-## Overview
-This project uses machine learning to predict medical insurance costs based on individual characteristics such as age, BMI, smoking status, and more.
+## Project Walkthrough Video
+https://www.loom.com/share/94fdde1aaae148bdafc7b3d5d6eda8e9 
 
 ## Tools & Technologies
 - Python
